@@ -1,5 +1,12 @@
 # json2csv
 
+https://github.com/Microsoft/vscode-extension-samples
+https://github.com/Microsoft/vscode-wordcount
+https://github.com/drugo76/sublime_json2csv
+https://github.com/evidens/json2csv
+https://github.com/vinay20045/json-to-csv
+https://github.com/drugo76/json2csv
+
 Converts json into csv with column titles and proper line endings.  
 Can be used as a module and from the command line.
 
